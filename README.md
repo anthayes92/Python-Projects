@@ -15,7 +15,7 @@ https://journals.aps.org/pra/abstract/10.1103/PhysRevA.93.033859
 This was tried with a few different optimisation algorithms, the adam optimiser was found to give the best fidelities ~0.7. The results of this are given here:
 https://github.com/anthayes92/Python-Showcase/tree/master/SF%20quantum%20state%20learning%20/sim_results/SES_z%3D2_d20_c10_r500
 
-Future work would (ideally on better suited hardware!) include optimisation of hyperparameters to increase fidelities (>0.9), state engineering of other states of interest to quantum metrology such as the "squeezed cat state" and engineering of multimode (more than 2 mode) states.
+Future work (ideally on better suited hardware!) would include optimisation of hyperparameters to increase fidelities (>0.9), state engineering of other states of interest to quantum metrology such as the "squeezed cat state" and engineering of multimode (more than 2 mode) states.
 
 # Data Analysis Example:
 This collaborative project (consisting of a bunch of physics PhDs with a passion for rock climbing!) used data scraped from the climbing website:
