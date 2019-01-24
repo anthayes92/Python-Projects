@@ -3,7 +3,8 @@ Examples of Professional and Personal projects in Python
 
 
 # SF quantum state learning
-[This project was performed on a Dell Latitude-E5540, Intel® Core™ i5-4310U CPU @ 2.00GHz × 4. OS: Ubuntu 16.04.5 LTS 64-bit]
+[This project was performed on a Dell Latitude-E5540, Intel® Core™ i5-4310U CPU @ 2.00GHz × 4. OS: Ubuntu 16.04.5 LTS 64-bit.
+This should be regarded as a lightweight proof-of-principle]
 
 This project uses software developed by Xanadu called Strawberryfields:
 https://strawberryfields.readthedocs.io/en/latest/
