@@ -24,7 +24,7 @@ Future work (ideally on better suited hardware!) would include optimisation of h
 This collaborative project (consisting of a bunch of physics PhDs with a passion for rock climbing!) used data scraped from the climbing website:
 https://www.8a.nu/
 
-In this folder we see part of this analysis in which the BMI of climbers around Europe is compared to that of the general population. This is done for the European countries in which for which there is the most data available on climbers. 
+In this folder we see part of this analysis in which the BMI of climbers around Europe is compared to that of the general population. This is done for the European countries for which there is the most data available on climbers. 
 
 The results are divided between males and females: 
 https://github.com/anthayes92/Python-Showcase/tree/master/Data%20Analysis%20Example/Results
