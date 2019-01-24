@@ -26,6 +26,7 @@ In this folder we see part of this analysis in which the BMI of climbers around 
 The results are divided between males and females: 
 https://github.com/anthayes92/Python-Showcase/tree/master/Data%20Analysis%20Example/Results
 
+Note that some female rock climners are fairly underweight!
 # Quantum Metrology
 In this project we see an example of Python code used to produce results for the published paper:
 https://iopscience.iop.org/article/10.1088/2058-9565/aac30b
