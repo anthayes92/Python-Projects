@@ -25,7 +25,7 @@ https://github.com/anthayes92/Python-Showcase/blob/master/Quanutm%20Metrology/op
 This project uses software developed by Xanadu called Strawberryfields:
 https://strawberryfields.readthedocs.io/en/latest/
 
-Here I use machine learning optimisation algorithms, provided by the TensorFlow backend, to engineer continuous variable states of particular interest to quantum metrology. The continuous variable states can be found here:
+Here I use machine learning optimisation algorithms, provided by the TensorFlow backend, to engineer continuous variable states of particular interest to quantum metrology. The details of these states can be found in the paper:
 https://github.com/anthayes92/Python-Showcase/blob/master/SF%20quantum%20state%20learning%20/learner/cv_states.py
 
 The state of interest is the so called "squeezed entangled state" which has been shown to exhibit high presicion gains for applications such as gravitational wave detection:
