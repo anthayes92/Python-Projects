@@ -7,9 +7,7 @@ Examples of Professional and Personal projects in Python
 This should be regarded as a lightweight proof-of-principle]
 
 This project uses software developed by Xanadu called Strawberryfields:
-https://strawberryfields.readthedocs.io/en/latest/
-
-This builds on the machine learning method for state preparation introduced in: 
+https://strawberryfields.readthedocs.io/en/latest/ and builds on the machine learning method for state preparation introduced in: 
 https://arxiv.org/abs/1807.10781
 
 In the present work I use machine learning optimisation algorithms, provided by the TensorFlow backend, to engineer continuous variable states of particular interest to quantum metrology. The Python code for these states is given here:
