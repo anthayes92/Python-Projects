@@ -18,7 +18,7 @@ https://github.com/anthayes92/Python-Showcase/tree/master/SF%20quantum%20state%2
 Future work would include optimisation of hyperparameters to increase fidelities, state engineering of other states of interest to quantum metrology such as the "squeezed cat state" and engineering of multimode (more than 2 mode) states.
 
 # Data Analysis Example:
-This project used data scraped from the climbing website:
+This collaborative project (consisting of a bunch of physics PhDs with a passion for rock climbing!) used data scraped from the climbing website:
 https://www.8a.nu/
 
 In this folder we see part of this analysis in which the BMI of climbers around Europe is compared to that of the general population. This is done for the European countries in which for which there is the most data available on climbers. 
