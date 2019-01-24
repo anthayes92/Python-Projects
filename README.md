@@ -8,7 +8,8 @@ https://strawberryfields.readthedocs.io/en/latest/
 
 This builds on the machine learning method for state preparation introduced in: 
 https://arxiv.org/abs/1807.10781
-Here I use machine learning optimisation algorithms, provided by the TensorFlow backend, to engineer continuous variable states of particular interest to quantum metrology. The Python code for these states is given here:
+
+In the present work I use machine learning optimisation algorithms, provided by the TensorFlow backend, to engineer continuous variable states of particular interest to quantum metrology. The Python code for these states is given here:
 https://github.com/anthayes92/Python-Showcase/blob/master/SF%20quantum%20state%20learning%20/learner/cv_states.py
 
 The state of interest is the so called "squeezed entangled state" which has been shown to exhibit high precision gains for applications such as gravitational wave detection but is difficult to engineer in practise:
