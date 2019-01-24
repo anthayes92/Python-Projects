@@ -12,7 +12,7 @@ https://github.com/anthayes92/Python-Showcase/blob/master/SF%20quantum%20state%2
 The state of interest is the so called "squeezed entangled state" which has been shown to exhibit high precision gains for applications such as gravitational wave detection:
 https://journals.aps.org/pra/abstract/10.1103/PhysRevA.93.033859
 
-This was tried with a few different optimisation algorithms, the adam optimiser was found to give the best fidelities ~0.7. The results of this are given here:
+This was tried with a few different optimisation algorithms, the Adam optimiser was found to give the best fidelities ~0.7. The results of this are given here:
 https://github.com/anthayes92/Python-Showcase/tree/master/SF%20quantum%20state%20learning%20/sim_results/SES_z%3D2_d20_c10_r500
 
 Future work (ideally on better suited hardware!) would include optimisation of hyperparameters to increase fidelities (>0.9), state engineering of other non-Guassian states of interest to quantum metrology such as the "squeezed cat state" and engineering of multimode (more than 2 mode) states.
