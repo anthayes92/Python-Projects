@@ -36,10 +36,10 @@ In this project we see an example of Python code used to produce results for the
 https://iopscience.iop.org/article/10.1088/2058-9565/aac30b
 
 The main interest of this code is the simulated evolution of quantum mechaical states: 
-https://github.com/anthayes92/Python-Showcase/blob/master/Quanutm%20Metrology/state_evolution.py
+https://github.com/anthayes92/Python-Showcase/blob/master/Quantum%20Metrology/state_evolution.py
 
 and the numerical optimisations of these processes which generate the data to be analysed:
-https://github.com/anthayes92/Python-Showcase/blob/master/Quanutm%20Metrology/optimisations---data_generation.py
+https://github.com/anthayes92/Python-Showcase/blob/master/Quantum%20Metrology/optimisations---data_generation.py
 
 
 
