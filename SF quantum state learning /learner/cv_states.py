@@ -40,7 +40,7 @@ def two_mode_coherent(alpha, cutoff):
     return two_mode_state.flatten()*np.exp(-np.abs(alpha)**2)
 
 # Introduce some non-clasicality in the form of a quadrature squeezed states
-# Squeeze in position quadraure for now to keep parameters real for simplicity
+# Squeeze in position quadrature for now to keep parameters real for simplicity
 
 def squeezed_vac(z,cutoff):
     r"""Squeezed vacuum state  |z>
@@ -78,7 +78,7 @@ def two_mode_squeezed_vac(z,cutoff):
            two_mode_sqz=np.outer(sqz, sqz)
     return two_mode_sqz.flatten()
 
-
+# Introduce mode entanglement in the form of the "squeezed-entangled state"
 # Again, consider squeezing in position quadrature
 
 def SES(z,cutoff):
