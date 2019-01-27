@@ -2,15 +2,15 @@
 Examples of Professional and Personal projects in Python 
 
 
-# SF quantum state learning
+# Quantum state learning (in StrawberryFields)
 [This project was performed on a Dell Latitude-E5540, Intel® Core™ i5-4310U CPU @ 2.00GHz × 4. OS: Ubuntu 16.04.5 LTS 64-bit.
 This should be regarded as a lightweight proof-of-principle]
 
-This project uses software developed by Xanadu called Strawberryfields:
+This project uses software developed by Xanadu called StrawberryFields:
 https://strawberryfields.readthedocs.io/en/latest/ and builds on the machine learning method for state preparation introduced in: 
 https://arxiv.org/abs/1807.10781
 
-In the present work I use machine learning optimisation algorithms, provided by the TensorFlow backend, to engineer continuous variable states of particular interest to quantum metrology. The Python code for these states is given here:
+In the present work I use machine learning optimisation algorithms, provided by the TensorFlow backend of StrawberryFields, to engineer continuous variable states of particular interest to quantum metrology. The Python script for these states is available here:
 https://github.com/anthayes92/Python-Showcase/blob/master/SF%20quantum%20state%20learning%20/learner/cv_states.py
 
 The state of interest is the so called "squeezed entangled state" which has been shown to exhibit high precision gains for applications such as gravitational wave detection but is difficult to engineer in practise:
@@ -40,7 +40,7 @@ The results are divided between males and females:
 
 Note that a significant proportion of female rock climbers are underweight compared to the general population!
 
-The full anaysis is available here: 
+The full analysis is available here: 
 https://github.com/anthayes92/Python-Showcase/blob/master/Data%20Analysis%20Example/Full_Analysis.pdf
 
 # Quantum Metrology
