@@ -29,7 +29,7 @@ Future work (ideally on better suited hardware!) would include optimisation of h
 This collaborative project (consisting of a bunch of physics PhDs with a passion for rock climbing!) used data scraped from the climbing website:
 https://www.8a.nu/
 
-In this folder we see part of this analysis in which the BMI of climbers around Europe is compared to that of the general population. This is done for the European countries for which there is the most data available on climbers. 
+Here we see part of this analysis in which the BMI of climbers around Europe is compared to that of the general population using publicly available EU 1024 census data. This focuses on the European countries for which there is the most data available on climbers (via "8a" users). 
 
 The results are divided between males and females: 
 https://github.com/anthayes92/Python-Showcase/tree/master/Data%20Analysis%20Example/Results
@@ -40,6 +40,9 @@ https://github.com/anthayes92/Python-Showcase/tree/master/Data%20Analysis%20Exam
 
 
 Note that a significant proportion of female rock climbers are underweight compared to the general population!
+
+The full anaysis is available here: 
+
 # Quantum Metrology
 In this project we see an example of Python code used to produce results for the published paper:
 https://iopscience.iop.org/article/10.1088/2058-9565/aac30b
