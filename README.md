@@ -26,13 +26,12 @@ where the upper two plots are quasi-probability distributions of the target and 
 Future work (ideally on better suited hardware!) would include optimisation of hyperparameters to increase fidelities (>0.9), state engineering of other non-Guassian states of interest to quantum metrology such as the "squeezed cat state" and engineering of multimode (more than 2 mode) states.
 
 # Data Analysis Example:
-This collaborative project (consisting of a bunch of physics PhDs with a passion for rock climbing!) used data scraped from the climbing website:
+This collaborative project (consisting of 3 physics PhDs with a shared passion for rock climbing) used data scraped from the popular climbing website:
 https://www.8a.nu/
 
-Here we see part of this analysis in which the BMI of climbers around Europe is compared to that of the general population using publicly available EU 1024 census data. This focuses on the European countries for which there is the most data available on climbers (via "8a" users). 
+Here we see part of this analysis in which the BMI of climbers around Europe is compared to that of the general population using publicly available EU 2014 census data. This focuses on the European countries for which there is the most data available on climbers (via "8a" users). 
 
 The results are divided between males and females: 
-https://github.com/anthayes92/Python-Showcase/tree/master/Data%20Analysis%20Example/Results
 
 <img src="Images/Males%20BMI-1.png" width="700">
 
@@ -42,6 +41,7 @@ https://github.com/anthayes92/Python-Showcase/tree/master/Data%20Analysis%20Exam
 Note that a significant proportion of female rock climbers are underweight compared to the general population!
 
 The full anaysis is available here: 
+https://github.com/anthayes92/Python-Showcase/blob/master/Data%20Analysis%20Example/Full_Analysis.pdf
 
 # Quantum Metrology
 In this project we see an example of Python code used to produce results for the published paper:
