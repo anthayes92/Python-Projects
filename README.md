@@ -1,5 +1,5 @@
 # Python Examples
-Examples of Professional and Personal projects in Python 
+Examples of personal and pofessional projects in Python 
 
 
 # Quantum state learning (in StrawberryFields)
