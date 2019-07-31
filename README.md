@@ -1,4 +1,4 @@
-# Python-Showcase
+# Python-Examples
 Examples of Professional and Personal projects in Python 
 
 
