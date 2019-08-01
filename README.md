@@ -9,8 +9,8 @@ Please find model and data visualisations in the accompanying slides at: https:/
 The bulk of this project can be found in the model.py file: https://github.com/anthayes92/Python-Examples/blob/master/Machine%20Learning/model.py
 
 The broad steps include data preprocessing e.g analysing correlations:
-
-<img src="Images/Corr.png" width="700">
+ 
+<img src="Images/Corr.png" width="700">  <img src="Images/Chains.png" width="700">
 
 # Data Analysis Example:
 This collaborative project (consisting of 3 physics PhDs with a shared passion for bouldering) used data scraped from the popular climbing website:
