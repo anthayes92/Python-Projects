@@ -4,6 +4,8 @@ Examples of personal and pofessional projects in Python
 # Machine Learning Example:
 This project uses data (~100,000 rows) of engineered molecules to predict properties which are difficult to measure in practise. However, there are molecule properties which are easy to measure and can act as predictors of the more difficult to access properties. 
 
+Key libraries used here include are numpy, pandas, sklearn, keras, matplotlib and seaborn.
+
 Please find model and data visualisations in the accompanying slides at: https://docs.google.com/presentation/d/1iiCG0XYOAxON6B8cKhYWHjurm69qLtmoDEYENoU40II/edit?usp=sharing
 
 The bulk of this project can be found in the model.py file: https://github.com/anthayes92/Python-Examples/blob/master/Machine%20Learning/model.py
