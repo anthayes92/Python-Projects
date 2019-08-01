@@ -18,7 +18,7 @@ Creating and tuning a neural network:
 
 <img src="Images/model_acc_dropout_B%3D150.png" width="500">  
 
-Analysing and testing the model predictive perfomance:
+Analysing and testing the model's predictive perfomance:
 
 <img src="Images/predict_vs_true.png" width="500">
 
