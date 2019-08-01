@@ -12,7 +12,7 @@ The bulk of this project can be found in the model.py file: https://github.com/a
 
 The broad steps include data preprocessing e.g analysing correlations:
  
-<img src="Images/Corr.png" width="900">  
+<img src="Images/Corr.png" width="1200">  
 
 Creating and tuning a neural network:
 
