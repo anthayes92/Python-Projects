@@ -10,7 +10,15 @@ The bulk of this project can be found in the model.py file: https://github.com/a
 
 The broad steps include data preprocessing e.g analysing correlations:
  
-<img src="Images/Corr.png" width="700">  <img src="Images/Chains.png" width="700">
+<img src="Images/Corr.png" width="900">  <img src="Images/Chains.png" width="700">
+
+Creating and tuning a neural network:
+
+<img src="Images/model_acc_dropout_B%3D150.png" width="700">  <img src="Images/model_loss_dropout_B%3D150.png" width="700">
+
+Analysing and testing the model:
+
+<img src="Images/predict_vs_true.png" width="700">
 
 # Data Analysis Example:
 This collaborative project (consisting of 3 physics PhDs with a shared passion for bouldering) used data scraped from the popular climbing website:
