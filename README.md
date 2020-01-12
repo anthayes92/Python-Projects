@@ -41,7 +41,6 @@ The full analysis is available here:
 https://github.com/anthayes92/Python-Showcase/blob/master/Data%20Analysis%20Example/Full_Analysis.pdf
 
 # Quantum state learning (in StrawberryFields)
-[Macine Specs: Dell Latitude-E5540, Intel® Core™ i5-4310U CPU @ 2.00GHz × 4. OS: Ubuntu 16.04.5 LTS 64-bit]
 
 This project uses software developed by Xanadu called StrawberryFields:
 https://strawberryfields.readthedocs.io/en/latest/ and builds on the machine learning method for state preparation introduced in: 
